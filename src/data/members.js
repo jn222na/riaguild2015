@@ -10,4 +10,5 @@ module.exports = {
 	MoombaDS: require("./users/MoombaDS.json"),
 	uf222ba: require("./users/uf222ba.json"),
 	drager: require("./users/drager.json"),
+	exils: require("./users/jn222na.json"),
 };
